@@ -1,47 +1,53 @@
 ---
+id: intro
+title: About thirdlyr
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# About thirdlyr
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## What is thirdlyr?  
+thirdlyr is the first **maritime-native blockchain infrastructure**, built on innovative **L3-DAC technology**. It addresses the speed and trust challenges of cross-border payments with:
 
-## Getting Started
+- **Instant Settlements**: Transactions finalize in 3-5 seconds.
+- **Guaranteed Compliance**: Automated workflows ensure regulatory adherence.
+- **Cost Efficiency**: Up to 90% lower transaction fees compared to traditional systems.
 
-Get started by **creating a new site**.
+Designed specifically for the maritime industry, thirdlyr combines blockchain scalability with enterprise-grade financial operations to revolutionize global trade payments.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+---
 
-### What you'll need
+## L3-DAC Architecture  
+thirdlyr's proprietary L3-DAC (Layer 3 with Decentralized Attestation and Compliance) architecture is tailored for maritime enterprises. It combines:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **Decentralized Attestation**: Ensures real-time compliance verification and permanent data availability.
+- **B2B Optimization**: Purpose-built for large-scale transactions with guaranteed trust and transparency.
+- **Instant Cross-Border Settlements**: Eliminate delays with 3-5 second transaction finality.
 
-## Generate a new site
+This architecture reduces operational overhead by 60% and simplifies workflows, empowering the maritime sector to adopt blockchain without complexity.
 
-Generate a new Docusaurus site using the **classic template**.
+---
 
-The classic template will automatically be added to your project after you run the command:
+## Low Transaction Fees  
+thirdlyr enables ultra-low transaction fees by leveraging L3 scalability:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **Efficient Gas Costs**: Maritime-optimized rollups minimize fees for global payments.
+- **Stable Payments**: Fees can be paid in fiat currencies (USD) or stablecoins (USDC) for ease of use.
+- **Predictable Pricing**: thirdlyr’s infrastructure avoids volatile Ethereum gas fees, ensuring predictable costs.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+---
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Maritime-Native Compliance  
+Compliance is at the heart of thirdlyr’s infrastructure:
 
-## Start your site
+- **Automated Verification**: Decentralized attestation handles KYC/AML checks in real time.
+- **Regulatory Confidence**: Purpose-built tools align with global compliance standards.
+- **Data Availability**: Permanent storage ensures tamper-proof audit trails for payments and contracts.
 
-Run the development server:
+---
 
-```bash
-cd my-website
-npm run start
-```
+Explore more about **thirdlyr** and discover how it’s revolutionizing maritime finance:
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [Learn More](#)
+- [GitHub](http://github.com/thirdlyr)
+- [Contact Us](https://calendly.com/jackie-thirdlyr)
