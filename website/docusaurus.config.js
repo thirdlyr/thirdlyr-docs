@@ -79,7 +79,7 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         logo: {
-          alt: 'My Site Logo',
+          alt: 'thirdlyr Logo',
           src: 'img/thirdlyr-high-res.png',
         },
       },
