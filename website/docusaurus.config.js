@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'thirdlyr Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Where Ships Meet Smart Money',
   favicon: 'img/thirdlyr-high-res-single.png',
 
   // Set the production url of your site here
@@ -126,7 +126,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Thirdlyr Pte Ltd. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
