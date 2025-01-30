@@ -3,6 +3,7 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "slug": "thirdlyr-protocol"
+    "slug": "thirdlyr-protocol",
+    "description": "In this section, we learn about the architecture of the thirdlyr protocol and how it works, along with the underlying technology that powers it."
   }
 }
